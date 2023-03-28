@@ -3,12 +3,12 @@
     <string name="app_name">Medicine Notifier</string>
 
     <!--Strings for Smart Talk-->
-    <string name="creating_of_new_medicine">Добавление нового лекарства</string>
+    <string name="creating_of_new_medicine">New Medicine</string>
 
     <!--Strings for medicine_list_item.xml-->
-    <string name="medicine_name">Название лекарства</string>
-    <string name="medicine_times">Время принятия</string>
-    <string name="medicine_num_in_container">Осталось</string>
+    <string name="medicine_name">Medicine</string>
+    <string name="medicine_times">No. of Times</string>
+    <string name="medicine_num_in_container">Medicine_num</string>
     <string name="first_notification">". Первое напоминание в "</string>
     <string name="medicines_left">Осталось таблеток: </string>
 
